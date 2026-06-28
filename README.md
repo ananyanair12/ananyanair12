@@ -53,7 +53,7 @@ one project at a time.
 
 *(Python is my strongest language — still building up Java and C++)*
 
-**Tools I've Used in Projects (with Claude's help)**
+**Tools I've Used in Projects**
 <br/>
 <img src="https://skillicons.dev/icons?i=flask,nodejs,mysql,js,html,css,firebase&theme=dark"/>
 
