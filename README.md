@@ -191,9 +191,10 @@ Assisted with CRM and web development tasks, getting hands-on exposure to how re
 <div align="center">
 
 <a href="https://leetcode.com/u/ananyanair9704/"><img src="https://img.shields.io/badge/LeetCode-312E81?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/GeeksforGeeks-4C1D95?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/HackerRank-5B21B6?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/CodeChef-6D28D9?style=for-the-badge&logo=codechef&logoColor=white"/></a>
+<a href="https://codeforces.com/profile/ananya_nair"><img src="https://img.shields.io/badge/Codeforces-4C1D95?style=for-the-badge&logo=codeforces&logoColor=white"/></a>
+<a href="https://www.geeksforgeeks.org/profile/ananyanatyb5"><img src="https://img.shields.io/badge/GeeksforGeeks-2E1065?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
+<a href="https://www.hackerrank.com/profile/ananyanair9704"><img src="https://img.shields.io/badge/HackerRank-5B21B6?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
+<a href="https://www.codechef.com/users/ananya_nair28"><img src="https://img.shields.io/badge/CodeChef-6D28D9?style=for-the-badge&logo=codechef&logoColor=white"/></a>
 
 </div>
 
