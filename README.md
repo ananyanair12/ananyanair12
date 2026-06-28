@@ -30,16 +30,16 @@
 ## ⟡ About Me
 
 ```
-I'm an AI/ML‑focused engineer with a strong foundation in full‑stack development,
-currently pursuing an Integrated M.Tech in Artificial Intelligence at VIT Bhopal.
+I'm an Integrated M.Tech (AI) student at VIT Bhopal, currently learning the
+fundamentals of AI/ML and full-stack development.
 
-I enjoy building systems end‑to‑end — from training and serving ML models to
-designing the frontend that makes them usable. My work spans predictive ML
-microservices, real‑time full‑stack platforms, and applied deep learning,
-with a product engineering mindset: ship things that work, then make them better.
+I'm still early in my journey — exploring Python, basic ML models, and web
+development through small projects, with the help of AI tools like Claude
+along the way. I enjoy learning by building, and I'm slowly growing my skills
+one project at a time.
 ```
 
-**🔭 Open To:** AI/ML Engineering · Software Development Engineer Roles · Research Collaborations · Open Source Contributions
+**🔭 Open To:** Learning Opportunities · Internships · Beginner-Friendly Open Source Contributions · Collaborations
 
 <br/>
 
@@ -71,11 +71,11 @@ with a product engineering mindset: ship things that work, then make them better
 
 | Domain | Proficiency | Details |
 |---|---|---|
-| Machine Learning | ⭐⭐⭐⭐☆ | Random Forest, Logistic Regression, model evaluation & deployment as microservices |
-| Deep Learning | ⭐⭐⭐☆☆ | Neural Networks, ANN architectures, exploring CNN/embedded ML applications |
-| Data Engineering | ⭐⭐⭐☆☆ | Data preprocessing, feature engineering, pipeline integration with Flask APIs |
-| Applied AI Tooling | ⭐⭐⭐⭐☆ | Prompt engineering, AI-assisted content & code generation workflows |
-| Full Stack Integration | ⭐⭐⭐⭐☆ | Connecting ML microservices to production-grade Node.js/React systems |
+| Machine Learning | ⭐⭐☆☆☆ | Learning the basics — Random Forest, Logistic Regression on small projects |
+| Deep Learning | ⭐☆☆☆☆ | Just getting started with Neural Networks and ANN concepts |
+| Data Engineering | ⭐⭐☆☆☆ | Learning data preprocessing and basic Flask API integration |
+| Applied AI Tooling | ⭐⭐⭐☆☆ | Comfortable using AI tools like Claude to learn, build, and debug |
+| Full Stack Integration | ⭐⭐☆☆☆ | Learning to connect simple backends (Node.js/Flask) with frontend apps |
 
 <br/>
 
@@ -85,18 +85,18 @@ with a product engineering mindset: ship things that work, then make them better
 <summary><b>🩺 HopeLink — Organ Donation System</b></summary>
 <br/>
 
-A full-stack platform that streamlines organ donation matching using a predictive ML layer alongside real-time coordination tools.
+A full-stack learning project exploring organ donation matching with a basic predictive ML layer, built with guidance from Claude.
 
 | Category | Detail |
 |---|---|
 | **Stack** | Node.js, Express, MySQL, Python/Flask ML microservice, Socket.io, Chart.js |
-| **ML Models** | Random Forest, Logistic Regression for donor–recipient compatibility scoring |
-| **Scale** | Multi-role platform (donors, recipients, hospitals) |
-| **Real-Time** | Socket.io-powered live updates and notifications |
+| **ML Models** | Random Forest, Logistic Regression for basic donor–recipient compatibility scoring |
+| **Built With** | Developed with the help of Claude for guidance on architecture and code |
+| **Real-Time** | Socket.io-powered live updates |
 | **Visualization** | Chart.js dashboards for tracking donation metrics |
 | **Repository** | [HopeLink-Organ-Donation-System](https://github.com/ananyanair12/HopeLink-Organ-Donation-System) |
 
-A system designed to reduce friction in life-critical donor matching by combining a lightweight ML microservice with a responsive, real-time full-stack application.
+A learning project to understand how ML and real-time full-stack systems can work together, with Claude helping along the way.
 
 </details>
 
@@ -107,11 +107,11 @@ A system designed to reduce friction in life-critical donor matching by combinin
 | Category | Detail |
 |---|---|
 | **Stack** | Flask, HTML, CSS |
-| **Scale** | Role-based access for educators and administrators |
-| **Focus** | Structured dashboards for early-childhood education management |
+| **Built With** | Created as a learning project with help from Claude |
+| **Focus** | Practicing role-based dashboards for early childhood education management |
 | **Repository** | [Flask-based-role-based-dashboard-for-Early-Childhood-Education](https://github.com/ananyanair12/Flask-based-role-based-dashboard-for-Early-Childhood-Education) |
 
-A role-aware dashboard built to give educators and administrators tailored views and controls over early childhood education workflows.
+A beginner project to practice building role-aware dashboards with Flask.
 
 </details>
 
@@ -122,10 +122,11 @@ A role-aware dashboard built to give educators and administrators tailored views
 | Category | Detail |
 |---|---|
 | **Stack** | TypeScript, modern frontend tooling |
-| **Scale** | Landing page + core site structure |
+| **Built With** | Built with guidance from Claude |
+| **Focus** | Landing page + core site structure |
 | **Repository** | [theeram-cafe-website](https://github.com/ananyanair12/theeram-cafe-website) |
 
-Launched the initial version with a foundational UI component system and core site architecture.
+A practice project to learn frontend structure and UI components.
 
 </details>
 
@@ -262,9 +263,9 @@ Exploring:
   - AI-generated content production pipelines
 
 Open To:
-  - AI/ML Engineering Roles
-  - Software Development Engineer Roles
-  - Research Collaborations
+  - Internships
+  - Beginner-Friendly Open Source Contributions
+  - Learning Opportunities & Collaborations
 ```
 
 <br/>
