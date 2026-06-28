@@ -19,7 +19,7 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=ananyanair12&style=for-the-badge&color=8b5cf6&label=PROFILE+VIEWS"/>
+<img src="https://komarev.com/ghpvc/?username=ananyanair12&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS"/>
 <img src="https://img.shields.io/github/followers/ananyanair12?style=for-the-badge&color=7c3aed&label=FOLLOWERS&logo=github"/>
 <img src="https://img.shields.io/github/stars/ananyanair12?style=for-the-badge&color=6d28d9&label=STARS"/>
 
@@ -203,12 +203,12 @@ Assisted with CRM and web development tasks, getting hands-on exposure to how re
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ananyanair12&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=8B5CF6&text_color=c9d1d9" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ananyanair12&theme=tokyonight&hide_border=true&background=0d1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA" width="48%"/>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ananyanair12&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=8B5CF6&text_color=c9d1d9)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ananyanair12&theme=tokyonight&hide_border=true&background=0d1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA)](https://git.io/streak-stats)
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ananyanair12&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9" width="48%"/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ananyanair12&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
@@ -218,7 +218,7 @@ Assisted with CRM and web development tasks, getting hands-on exposure to how re
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=ananyanair12&theme=algolia&no-frame=true&no-bg=true&margin-w=4&row=1" />
+[![trophy](https://github-profile-trophy.vercel.app/?username=ananyanair12&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -228,7 +228,7 @@ Assisted with CRM and web development tasks, getting hands-on exposure to how re
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ananyanair12&theme=react-dark&bg_color=0d1117&color=A78BFA&line=8B5CF6&point=ffffff&hide_border=true" width="100%"/>
+[![Ananya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ananyanair12&theme=tokyo-night&bg_color=0d1117&color=A78BFA&line=8B5CF6&point=ffffff&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -238,7 +238,7 @@ Assisted with CRM and web development tasks, getting hands-on exposure to how re
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/ananyanair12/ananyanair12/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+[![snake animation](https://raw.githubusercontent.com/ananyanair12/ananyanair12/output/github-contribution-grid-snake-dark.svg)](https://github.com/Platane/snk)
 
 </div>
 
