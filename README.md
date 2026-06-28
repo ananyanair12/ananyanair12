@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Ananya%20Nair&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20Builder&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Ananya%20Nair&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%2FML%20Student%20%7C%20Learning%20by%20Building&descAlignY=55&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Integrated+M.Tech+in+Artificial+Intelligence;Building+AI%2FML+%2B+Full+Stack+Products;Exploring+Neural+Nets+%26+Embedded+Systems;Open+to+SDE+%2F+AI+Engineer+Roles" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Integrated+M.Tech+in+Artificial+Intelligence;Learning+AI%2FML+%2B+Full+Stack+Basics;Building+Small+Projects+Step+by+Step;Open+to+Internships+%26+Learning+Opportunities" alt="Typing SVG" />
 
 <br/>
 
@@ -47,21 +47,19 @@ one project at a time.
 
 <div align="center">
 
-**Languages**
+**Languages I Know**
 <br/>
-<img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=python,java,cpp&theme=dark"/>
 
-**Frontend**
-<br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap&theme=dark"/>
+*(Python is my strongest language — still building up Java and C++)*
 
-**Backend & Databases**
+**Tools I've Used in Projects (with Claude's help)**
 <br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,flask,mysql,firebase&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=flask,nodejs,mysql,js,html,css,firebase&theme=dark"/>
 
-**AI / ML & Cloud Tooling**
+**Currently Exploring**
 <br/>
-<img src="https://skillicons.dev/icons?i=tensorflow,sklearn,aws,git,github,vscode&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=tensorflow,sklearn,git,github,vscode&theme=dark"/>
 
 </div>
 
@@ -71,11 +69,11 @@ one project at a time.
 
 | Domain | Proficiency | Details |
 |---|---|---|
-| Machine Learning | ⭐⭐☆☆☆ | Learning the basics — Random Forest, Logistic Regression on small projects |
-| Deep Learning | ⭐☆☆☆☆ | Just getting started with Neural Networks and ANN concepts |
-| Data Engineering | ⭐⭐☆☆☆ | Learning data preprocessing and basic Flask API integration |
-| Applied AI Tooling | ⭐⭐⭐☆☆ | Comfortable using AI tools like Claude to learn, build, and debug |
-| Full Stack Integration | ⭐⭐☆☆☆ | Learning to connect simple backends (Node.js/Flask) with frontend apps |
+| Python | ⭐⭐⭐☆☆ | My main language — comfortable writing scripts and small programs |
+| Java / C++ | ⭐⭐☆☆☆ | Learned the basics, still building confidence |
+| Machine Learning | ⭐☆☆☆☆ | Read about and experimented with Random Forest, Logistic Regression in guided projects |
+| Deep Learning | ⭐☆☆☆☆ | Just starting to read about Neural Networks and ANN concepts |
+| Web Development | ⭐☆☆☆☆ | Explored Flask/Node.js basics through projects, mostly with Claude's guidance |
 
 <br/>
 
@@ -138,27 +136,27 @@ A practice project to learn frontend structure and UI components.
 <br/>
 *Internship*
 
-Contributed to CRM and web development workstreams, gaining hands-on exposure to production web systems and client-facing tooling.
+Assisted with CRM and web development tasks, getting hands-on exposure to how real projects are built and maintained.
 
-- Worked on CRM platform features and enhancements
-- Built and maintained web development components
-- Collaborated within a structured engineering workflow
+- Helped with small CRM platform features and fixes
+- Assisted in building basic web development components
+- Learned how to work within a team engineering workflow
 
-`CRM` `Web Development` `Collaboration`
+`CRM` `Web Development` `Learning`
 
 <br/>
 
-## ⟡ Achievements
+## ⟡ Courses & Programs Completed
 
 <div align="center">
 
-| Recognition | Details |
+| Program | Details |
 |---|---|
-| Anthropic Certification | Completed coursework on applied AI/LLM concepts |
-| AWS Certification | Cloud fundamentals and applied services |
-| University of Michigan (Coursera) | Completed specialized coursework via Coursera |
+| Anthropic Course | Completed coursework on applied AI/LLM concepts |
+| AWS Course | Cloud fundamentals |
+| University of Michigan (Coursera) | Completed specialized coursework |
 | Deloitte (Forage) | Completed virtual job simulation program |
-| VIT Vityarthi Certification | Internal academic achievement recognition |
+| VIT Vityarthi | Academic certification |
 
 </div>
 
@@ -250,17 +248,17 @@ Contributed to CRM and web development workstreams, gaining hands-on exposure to
 
 ```yaml
 Learning:
-  - Advanced Neural Networks & Embedded Systems
-  - Next.js for production-grade frontend systems
-  - Firebase Studio for rapid backend prototyping
+  - Neural Networks & Embedded Systems basics
+  - Next.js fundamentals
+  - Firebase Studio basics
 
 Building:
-  - Personal AI-automated content platform (Next.js + Firebase + Claude API)
-  - HopeLink — Organ Donation System (ongoing enhancements)
+  - A personal content-automation project (Next.js + Firebase + Claude API), learning as I go
+  - Small improvements to HopeLink as I learn more
 
 Exploring:
-  - Applied LLM integrations via Claude API
-  - AI-generated content production pipelines
+  - Using the Claude API in small projects
+  - AI-assisted content creation workflows
 
 Open To:
   - Internships
@@ -285,7 +283,7 @@ Open To:
 
 <div align="center">
 
-*"Build with intention, ship with confidence."*
+*"Still learning, still building."*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
 
