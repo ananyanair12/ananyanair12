@@ -14,7 +14,7 @@
 
 <a href="https://leetcode.com/u/ananyanair9704/"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/ananya-nair-7b1402251"><img src="https://img.shields.io/badge/LinkedIn-5B21B6?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:ananyanair9704@gmail.com"><img src="https://img.shields.io/badge/Email-4338CA?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="mailto:ananyanair989@gmail.com"><img src="https://img.shields.io/badge/Email-4338CA?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://github.com/ananyanair12"><img src="https://img.shields.io/badge/GitHub-312E81?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 <br/><br/>
